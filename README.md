@@ -20,11 +20,14 @@
 - **Trang chủ, Thể thao, Truyền hình, Phim lẻ, Phim bộ** với billboard, các hàng nội dung và tìm kiếm.
 - **Truyền hình trực tiếp** có nhãn LIVE, chuyển kênh ngay trong trình phát.
 - **Phim bộ**: chọn tập trong trình phát, xem tiếp tập sau.
-- **Chọn chất lượng và âm thanh** khi xem.
 - **Đăng nhập bằng mã QR** (quét bằng app FPT Play trên điện thoại) hoặc bằng số điện thoại.
 - **Nhiều hồ sơ**: hỏi "Ai đang xem?", hỗ trợ hồ sơ có passcode.
 - **Xem qua không cần đăng nhập**: bấm "Bỏ qua" ở màn chào mừng để duyệt danh mục; chỉ cần đăng nhập khi phát nội dung.
-- **Top Shelf**: trận đấu đang diễn ra và nội dung đề xuất hiện ngay trên màn hình chính của Apple TV.
+- **Xem tiếp**: phim xem dở hiện ngay đầu Trang chủ và đồng bộ với FPT Play trên điện thoại.
+- **Trang chi tiết** có đánh giá, nhãn chất lượng, diễn viên và nội dung liên quan.
+- **Thể thao**: lịch thi đấu, kết quả, bảng xếp hạng và đội yêu thích, bố cục theo FPT Play.
+- **Trình phát**: bỏ qua intro, tự sang tập sau khi vào credits, chọn chất lượng và âm thanh.
+- **Top Shelf**: trận đấu đang diễn ra, phim xem dở và nội dung đề xuất hiện ngay trên màn hình chính của Apple TV.
 
 ## Yêu cầu
 
